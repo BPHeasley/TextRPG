@@ -1,0 +1,12 @@
+﻿  Area.cpp
+  Generating Code...
+  Compiling...
+  Source.cpp
+c:\users\ben\documents\visual studio 2015\projects\textrpgv4\textrpgv4\source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Zone.cpp
+  Game.cpp
+  Enemy.cpp
+  TextRPGv4.vcxproj -> C:\Users\Ben\Documents\Visual Studio 2015\Projects\TextRPGv4\Debug\TextRPGv4.exe
+  TextRPGv4.vcxproj -> C:\Users\Ben\Documents\Visual Studio 2015\Projects\TextRPGv4\Debug\TextRPGv4.pdb (Partial PDB)
